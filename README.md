@@ -1,4 +1,4 @@
-# Uzbek_words
+# uzbek-words
 83418 Uzbek words. 
 * Type of words. 
 * Spelling of words in the Cyrillic alphabet. 
